@@ -1,0 +1,6 @@
+framework module Pods_Pastel_Example {
+  umbrella header "Pods-Pastel_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
